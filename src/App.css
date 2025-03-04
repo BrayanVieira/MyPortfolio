@@ -243,7 +243,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-color: transparent;
 }
 
-/************ Banner Css ************/
+/* Banner Css */
 .banner {
   margin-top: 0;
   padding: 260px 0 100px 0;
@@ -317,7 +317,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-right: 0.08em solid #666;
 }
 
-/************ Skills Css ************/
+/* Skills Css */
 .skill {
   padding: 0 0 50px 0;
   position: relative;
